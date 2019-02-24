@@ -20,12 +20,6 @@ Ensure you have the latest stable version of Node as stated on [http://nodejs.o
 
 {% include content/node-dir-privs.md %}
 
-If you have to use `sudo`, use the following command:
-
-```
-$ sudo npm install -g --unsafe-perm install strongloop
-```
-
 ## Windows issues
 
 ### Cygwin not supported
